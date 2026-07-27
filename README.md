@@ -97,7 +97,4 @@ In case You want to run & implement project on your system then follow these ste
 
 The application will use conversational AI to provide responses based on the content of the uploaded documents. The responses will be displayed in the chat interface.
 
----
 
-
----
