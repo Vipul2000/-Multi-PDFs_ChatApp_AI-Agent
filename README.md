@@ -63,7 +63,7 @@ The application follows these steps to provide responses to your questions:
 
 Clone the repository:
 
-`git clone https://github.com/GURPREETKAURJETHRA/Multi-PDFs_ChatApp_AI-Agent.git`
+`https://github.com/Vipul2000/-Multi-PDFs_ChatApp_AI-Agent.git`
 
 Install the required Python packages:
 
